@@ -1,0 +1,20 @@
+# Files that never leave your machine.
+# Anything listed here gets skipped when claude saves your work to GitHub.
+
+# Your API keys live here, whatever the file ends up named. Never remove these lines.
+.env
+.env.*
+env
+env.*
+*.key
+keys.md
+keys.txt
+keys.json
+secrets.*
+credentials.*
+
+# Computer junk
+.DS_Store
+.playwright-cli/
+# Any file ending in .env, whatever it gets named. Keys never leave your machine
+*.env
