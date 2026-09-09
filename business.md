@@ -59,6 +59,7 @@ Recruiting marketing (job applicants) also needs help — owner rates it as some
 - Additional files — spread across Google Drive and Dropbox
 - "Transformational Partnership Proven Process" deck — maps the full district partnership lifecycle (Discovery, Co-Design, Launch, Quarterly Impact Cycle, Renewal)
 - "2026 Community Camp Marketing Playbook" (brand essence, positioning, voice & tone guide, key phrases, campaign taglines, storytelling pillars for the fee-paying/Community Camp summer audience) — `knowledge/2026 Community Camp Marketing Playbook.pdf`
+- "2026 Partnership Marketing Playbook" (same structure, for the District Partnerships audience — districts/schools/educational leaders) — `knowledge/2026 Partnership Marketing Playbook.pdf`, found live in Canva
 - Templates and decks — built by the comms/marketing person (who also owns most marketing production); owner rates them as reusable and in okay shape
 - No email sequencing exists at all — needs to be built from scratch, especially for the community camp funnel
 
