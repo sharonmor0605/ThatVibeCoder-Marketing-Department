@@ -21,3 +21,9 @@ The surfaces this take should lead: content opens with it, sales conversations l
 
 ## Raw Material From Day 1
 The brain-dump-your-business skill saves your answer to "what does your industry get completely wrong" here, word for word. The find-your-contrarian-take skill builds the take above FROM this quote, so it stays even after the take is written: the ore stays with the metal.
+
+> "They focus on the product instead of the benefits."
+>
+> "Well, we want to create curious, courageous, and kind humans. That matters."
+—
+(2026-09-08)

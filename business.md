@@ -1,32 +1,45 @@
 # Business
 
-The brain-dump-your-business skill fills this in. Don't fill it by hand, talk it in.
-
-Open claude in this folder and talk about your business in your own words: what you sell, who buys it, what makes you different. Claude matches that to the brain-dump-your-business skill and writes what you say into this file. That's the whole job.
-
 ## What You Sell
-What you sell, and who actually buys it.
+EDMO is a 501(c)(3) national education nonprofit (23 years old) delivering STEAM + SEL after-school programs and summer camps for K-12 kids, built around "The EDMO Method" (developed with UC Berkeley's Greater Good Science Center). There are four distinct audiences, each with a different job to do:
+
+1. **District partners** (schools/districts) — the largest revenue source, won through RFPs, but restricted funds and hard to service.
+2. **Community camp families** — direct B2C, unrestricted funds, and a growth priority right now.
+3. **Donors** — need better conversion from site visitor to actual donation.
+4. **Job applicants** — EDMO has to hire 400+ seasonal staff and struggles to attract enough good applicants in some communities. Recruiting is treated as a core marketing audience, not just an HR problem.
 
 ## The Economics
-What a customer pays the first time, whether they come back and how many times, and how many more you could actually take on this month before you'd be underwater.
+**District partnerships:** won through a formal RFP process, contracted by school year (fall start), covering the school year plus intersessions and sometimes summer, funded by district ELP (Expanded Learning Programs) funding. Multi-year contracts happen but aren't guaranteed — good execution earns annual renewal. This is EDMO's largest revenue line but it's restricted funding and operationally hard.
+
+**Community camp:** B2C. A family compares budget, schedule, and competitor websites, then books 1 to 6-7 weeks of camp, often bringing siblings. Target retention is 80-90% of families year over year. EDMO paused this line during COVID to focus fully on district partnerships, and is now deliberately reentering community camp specifically to build unrestricted funds.
+
+**Capacity constraint right now is staffing, not demand:** EDMO is understaffed at its Salinas, Alisal, and Lake County sites, which puts contract delivery at risk, not just growth.
 
 ## How Customers Find You
-How your last few customers actually first heard of you, one at a time, in your own words.
+- **District partners:** acquired through the RFP process, which runs roughly February to May each year, following EDMO's "Transformational Partnership Proven Process" — Discovery → Co-Design (Define/Design/Integrate) → Launch → Quarterly Impact Cycle (Measure, Learn & Adjust, Strengthen Partnership, Evaluate & Reflect) → Renewal. Decision-makers are typically superintendents or directors of expanded learning. Day to day, these relationships are owned by the Director of Partnerships (Kendra and Nathan) pre-launch, and by Partner Relationship Managers (PRMs) once a partnership is live — not something the owner tracks closely.
+- **Community camp families:** unknown for certain. Owner's best guess is Google ads, but this is unverified — worth checking ad platform data or asking families directly.
+- **Job applicants:** unknown for certain. Owner's best guess is word of mouth and Indeed, unverified.
 
 ## The Week
-Where the hours really go.
+Dominated by leadership team meetings. Running on EOS (Entrepreneurial Operating System) has made things more efficient, but there's likely more room to tighten further.
 
 ## What You Hate Doing
-The work you'd hand off first if you could.
+Leading people who aren't innovative — who can't take an idea, own the project, and see it through without heavy hand-holding. This ties directly to the staffing/recruiting pain above: the challenge isn't just filling seats, it's finding people who can run with things.
 
 ## Won't Do / Already Tried
-Marketing you've already tried that didn't work, and what you'd flat-out refuse to do no matter how well it works for other people. Every planning skill reads this before proposing a channel.
+Community camp marketing needs significant help — it's underdeveloped since EDMO only recently reentered this market after pausing it during COVID to focus on district partnerships. No hard refusals on tactics; open to whatever works.
 
 ## What's Already Written Down
-What already exists somewhere (a doc, a deck, an old website) and where it lives.
+- Brand guidelines (outdated) — Airtable
+- Marketing/creative assets — Asana
+- Additional files — spread across Google Drive and Dropbox
+- "Transformational Partnership Proven Process" deck — maps the full district partnership lifecycle (Discovery, Co-Design, Launch, Quarterly Impact Cycle, Renewal)
 
 ## Who Else They Could Pick
-Who else your customers could go to instead of you. Name names: this is the research team's target list.
+**District RFP competitors:** Elevo, Right at School, Think Together
+**Community camp competitors:** Camp Galileo, Steve & Kate's, iD Tech
 
 ## Still to answer
-Questions that got skipped or answered thin, logged one line each with the date. Shrinks as later sessions circle back to one open question at a time. Empty is fine, it means nothing's outstanding yet.
+- (2026-09-08) How camp families actually first heard of EDMO — owner guessed Google ads, unverified. Check ad platform/analytics or ask families directly.
+- (2026-09-08) How recent job applicants/hires actually heard about openings — owner guessed word of mouth and Indeed, unverified.
+- (2026-09-08) District partner discovery/acquisition in the owner's own words — owner deferred to the Director of Partnerships (Kendra/Nathan); the "Proven Process" deck covers the partnership lifecycle once underway, not how districts first find EDMO.
