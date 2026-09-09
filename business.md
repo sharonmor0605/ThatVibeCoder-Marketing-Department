@@ -58,7 +58,7 @@ Recruiting marketing (job applicants) also needs help — owner rates it as some
 - Marketing/creative assets — Asana
 - Additional files — spread across Google Drive and Dropbox
 - "Transformational Partnership Proven Process" deck — maps the full district partnership lifecycle (Discovery, Co-Design, Launch, Quarterly Impact Cycle, Renewal)
-- A playbook — exists, but the owner couldn't locate it during this session (see Still to answer)
+- "2026 Community Camp Marketing Playbook" (brand essence, positioning, voice & tone guide, key phrases, campaign taglines, storytelling pillars for the fee-paying/Community Camp summer audience) — `knowledge/2026 Community Camp Marketing Playbook.pdf`
 - Templates and decks — built by the comms/marketing person (who also owns most marketing production); owner rates them as reusable and in okay shape
 - No email sequencing exists at all — needs to be built from scratch, especially for the community camp funnel
 
@@ -70,5 +70,4 @@ Recruiting marketing (job applicants) also needs help — owner rates it as some
 - (2026-09-08) How camp families actually first heard of EDMO — owner guessed Google ads, unverified. Check ad platform/analytics or ask families directly.
 - (2026-09-08) How recent job applicants/hires actually heard about openings — owner guessed word of mouth and Indeed, unverified.
 - (2026-09-08) District partner discovery/acquisition in the owner's own words — owner deferred to the Director of Partnerships (Kendra/Nathan); the "Proven Process" deck covers the partnership lifecycle once underway, not how districts first find EDMO.
-- (2026-09-09) Where the playbook actually lives — searched Google Drive (My Drive and Shared with Me), Asana, and Airtable; no file or record titled "playbook" found. Asana has a "Partner Marketing Playbook" project, but it's just an empty task checklist (draft done, final review not done, no attached doc). Board memos reference a "Complete Org-Wide Playbook" rock and a "Summer Fee Paying playbook" as real deliverables, so it likely exists under a different title, or lives in Canva (not searchable from here). Owner is asking Jess (Director of Communications & Marketing) directly on 2026-09-10.
 - (2026-09-08) Individual monthly costs of Asana, Airtable, Canva, Webflow, Feather, Slack, Paylocity, and Google Workspace — owner doesn't track these closely since tools aren't a major cost line (salaries/overhead are); worth pulling only if it becomes relevant to a budgeting decision.
