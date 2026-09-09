@@ -15,10 +15,9 @@ Raw notes from the lock-your-icp interview, not yet finished. Resume with "keep 
 
 **Cross-check against existing material:** "Working Wendy" is explicitly a *dual income household* — which lines up with anchor #1, not #2. That's worth noticing: the persona already on file quietly assumes the career-driven household without anyone deciding that on purpose.
 
-**Open thread, not yet resolved:** Owner checked with her CR (Customer Relations) Director on which household type is actually the more common/real one. Her working answer, still a guess rather than a confirmed answer: **it's more likely two-working-parent households** — i.e., not "career mom vs. stay-at-home mom" as two separate household types, but possibly one household type (both parents working) where the STEAM/SEL split might land differently (e.g., between the two parents) rather than between two kinds of families.
+**Resolved:** Owner's CR (Customer Relations) Director has confirmed — not just guessed — that the real household type is **two working parents**, not "career mom vs. stay-at-home mom" as two separate household types. This matches "Working Wendy"'s existing dual-income-household detail, so the material already on file was more accurate than the initial two-persona split suggested.
 
 **Still open, asked but not yet answered:**
-- Is "two working parent households" confirmed by the CR Director, or still the owner's own guess?
 - If both parents work, does the STEAM/SEL split still hold — e.g., one parent leans STEAM-motivated and the other leans SEL-motivated within the same household? Or does two-working-parent status mean the real distinguishing factor for the ICP is something else entirely (schedule logistics, who actually handles enrollment, etc.), not a STEAM/SEL personality split at all?
 - No real name/anchor identified yet for either persona (unlike Chloe Johnson for District Partnerships) — still composites at this point.
 
