@@ -55,7 +55,7 @@ Recruiting marketing (job applicants) also needs help — owner rates it as some
 
 ## What's Already Written Down
 - Brand guidelines (outdated) — Airtable
-- Marketing/creative assets — Asana
+- Digital asset library (photos, logos, videos, headshots, fonts, letterheads, slide templates, board media kit) — Google Drive, ["Assets" folder](https://drive.google.com/drive/folders/11XNcpZ4r_kahNqyYgygZLBe7xCUqWucK). Covers both audiences: Photos is split into "CASPs" (district partnerships) and "Summer" (community camp) subfolders. Asana's own "Brand and Style Guide" project is mostly guideline placeholders, not where the actual files live.
 - Additional files — spread across Google Drive and Dropbox
 - "Transformational Partnership Proven Process" deck — maps the full district partnership lifecycle (Discovery, Co-Design, Launch, Quarterly Impact Cycle, Renewal)
 - "2026 Community Camp Marketing Playbook" (brand essence, positioning, voice & tone guide, key phrases, campaign taglines, storytelling pillars for the fee-paying/Community Camp summer audience) — `knowledge/2026 Community Camp Marketing Playbook.pdf`
