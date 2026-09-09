@@ -20,11 +20,33 @@ EDMO is a 501(c)(3) national education nonprofit (23 years old) delivering STEAM
 - **Community camp families:** unknown for certain. Owner's best guess is Google ads, but this is unverified — worth checking ad platform data or asking families directly.
 - **Job applicants:** unknown for certain. Owner's best guess is word of mouth and Indeed, unverified.
 
+## What You Run On
+- **Asana** — project/task management; marketing and creative assets live here
+- **Airtable** — holds brand guidelines; underused, only one or two people actually work in it, not capitalized on or optimized
+- **Google Drive + Google Workspace** — general file storage, org email/docs
+- **Canva** — design/creative
+- **Webflow** — website
+- **Feather** — social media and ad tracking
+- **Slack** — team communication
+- **Paylocity** — payroll, HRIS, and ATS; owner calls it "a little bit outdated"
+- **HubSpot** — expensive (already cut the cost in half); actively looking to replace with something more affordable
+- **Legacy in-house registration platform** — "turned into a mess," being retired
+- **Activity Hero** — new third-party platform taking over community camp registration/enrollment from the in-house system
+- No donor platform — CFO owns financial tracking directly; not flagged as a gap
+
+Owner doesn't track individual tool costs closely — tools are not a major cost line for EDMO. The real expense is overhead, mainly salaries.
+
 ## The Week
-Dominated by leadership team meetings. Running on EOS (Entrepreneurial Operating System) has made things more efficient, but there's likely more room to tighten further.
+Roughly 13+ recurring meetings a week: 1:1s with all 7 direct reports, the marketing team meeting, a strategy session with programs & partnerships, the town hall planning team, a cash flow meeting, a compliance meeting, and meetings with the CFO and HR — plus a board development subcommittee every other week. Running on EOS (Entrepreneurial Operating System) has made this more efficient, but the owner sees the opportunity as leading these meetings better, not cutting them: holding people accountable to own, execute, adjust, and correct, rather than just complete tasks.
+
+Outside of meetings, the owner does little hands-on task work — leads rather than executes. The one exception is a personal push to learn AI and automation and build agents, aiming for a marketing department that doesn't require headcount to manage it (this repo is that project) — it competes for time against the meeting load and doesn't get as much as the owner wants.
+
+**Community camp inquiry flow** (flagged as weak): a new family reaches out and gets either a generic, "soulless" automated email or a slow reply (call or email) from the CR (customer relations) person. Enrollment has run through the legacy in-house platform; moving to Activity Hero going forward.
 
 ## What You Hate Doing
 Leading people who aren't innovative — who can't take an idea, own the project, and see it through without heavy hand-holding. This ties directly to the staffing/recruiting pain above: the challenge isn't just filling seats, it's finding people who can run with things.
+
+This shows up at the department-head level too: heads aren't picking up AI/automation on their own, and marketing specifically is still working the old-fashioned way and hasn't gotten real traction. The org also has a Director of Systems whose work is smart but built around himself — not replicable or scalable to anyone else. The owner's goal is the opposite: innovation, automation, and AI owned by each department head, not centralized and bottlenecked in one person or department.
 
 ## Won't Do / Already Tried
 Community camp marketing needs significant help — it's underdeveloped since EDMO only recently reentered this market after pausing it during COVID to focus on district partnerships. No hard refusals on tactics; open to whatever works.
@@ -34,6 +56,9 @@ Community camp marketing needs significant help — it's underdeveloped since ED
 - Marketing/creative assets — Asana
 - Additional files — spread across Google Drive and Dropbox
 - "Transformational Partnership Proven Process" deck — maps the full district partnership lifecycle (Discovery, Co-Design, Launch, Quarterly Impact Cycle, Renewal)
+- A playbook — exists, but the owner couldn't locate it during this session (see Still to answer)
+- Templates and decks — built by the comms/marketing person (who also owns most marketing production); owner rates them as reusable and in okay shape
+- No email sequencing exists at all — needs to be built from scratch, especially for the community camp funnel
 
 ## Who Else They Could Pick
 **District RFP competitors:** Elevo, Right at School, Think Together
@@ -43,3 +68,5 @@ Community camp marketing needs significant help — it's underdeveloped since ED
 - (2026-09-08) How camp families actually first heard of EDMO — owner guessed Google ads, unverified. Check ad platform/analytics or ask families directly.
 - (2026-09-08) How recent job applicants/hires actually heard about openings — owner guessed word of mouth and Indeed, unverified.
 - (2026-09-08) District partner discovery/acquisition in the owner's own words — owner deferred to the Director of Partnerships (Kendra/Nathan); the "Proven Process" deck covers the partnership lifecycle once underway, not how districts first find EDMO.
+- (2026-09-08) Where the playbook actually lives — owner couldn't locate it during this session; owner is tracking it down to upload next time.
+- (2026-09-08) Individual monthly costs of Asana, Airtable, Canva, Webflow, Feather, Slack, Paylocity, and Google Workspace — owner doesn't track these closely since tools aren't a major cost line (salaries/overhead are); worth pulling only if it becomes relevant to a budgeting decision.
