@@ -51,6 +51,8 @@ This shows up at the department-head level too: heads aren't picking up AI/autom
 ## Won't Do / Already Tried
 Community camp marketing needs significant help — it's underdeveloped since EDMO only recently reentered this market after pausing it during COVID to focus on district partnerships. No hard refusals on tactics; open to whatever works.
 
+Recruiting marketing (job applicants) also needs help — owner rates it as somewhat better shape than the community camp funnel, but still "pretty bad." Ties to the 400+ seasonal hiring need and the understaffing at Salinas, Alisal, and Lake County noted under The Economics.
+
 ## What's Already Written Down
 - Brand guidelines (outdated) — Airtable
 - Marketing/creative assets — Asana
