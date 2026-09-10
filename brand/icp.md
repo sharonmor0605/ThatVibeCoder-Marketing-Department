@@ -44,4 +44,39 @@ Not yet filled in the ICP Notion template — connector is live, just hasn't bee
 
 ## District Partnerships
 
-Interview in progress — six lenses and a working one-liner exist in `brand/icp-district-partnerships-draft.md`, not yet pushed into final form here. See that file to resume.
+### The One Liner
+> "I help Directors of Expanded Learning like Chloe go from the ache of watching kids lose programming because of operational challenges and/or staffing gaps — on top of pressure from her superintendent and business officer — to running a fully-staffed, zero-waitlist program where every single kid gets engaged and has access."
+
+### The One Person
+**Chloe Johnson.** A real person, not a hypothesis — Director of Expanded Learning-type role, Salinas (a site business.md already flags as understaffed and at real capacity risk). Moves a million miles an hour, full of ideas, has a hard time staying anchored to any one of them. Genuinely cares about the kids. Under real pressure from above — her superintendent and her business manager.
+
+She was chosen over two other candidates the sweep turned up: "Leading Lisa" (a superintendent-level persona from the FigJam board) and a 5-persona AI-generated buyer map found in Drive. The owner confirmed EDMO *wants* more superintendent-level access, but the person actually in the room, day to day, is almost always the Director of Expanded Learning — so that's who this ICP is built around.
+
+### Current State and What It Costs
+Chloe holds a high bar: she wants positions filled and classrooms opened fast when a waitlist forms. When EDMO can't move that fast — because of operational challenges and/or staffing gaps — it costs her directly: heat from her superintendent and business manager, angry calls from parents, looking bad in front of her own board.
+
+**The key reframe from this interview:** this isn't "Chloe has unrealistic expectations." Her expectation — open a classroom immediately when there's a waitlist — is identical to her own dream state. It's a legitimate goal colliding with EDMO's real hiring and training timeline. The gap is EDMO's delivery speed, not her judgment. And the pain itself is personal, not just external: it hurts her, not just her standing with her superiors — the pressure from above is a real, separate layer on top of that ache, not the source of it.
+
+### Dream State
+She wants to know EDMO has spent every ELOP dollar in the best, most efficient way — best for her families, her kids, her community. She wants to see no one on a waitlist, ever, and if anyone ever is, she wants another classroom opened immediately. She wants every vendor in her district working in harmony, so it's never about the vendor, always about the students and families. What she gets out of all of that isn't external validation — it's personal: seeing every single kid engaged and given access to this kind of program.
+
+**Ecosystem context:** Chloe manages several ELOP-funded vendors at once, not just EDMO. Named alongside EDMO: Elevo, Think Together, Camp Invention, Hartnell School.
+
+### What Makes Them Click
+- Seeing the programs actually work
+- Hearing directly from families how much it's helped
+- Seeing all the vendors in her district working in harmony, not competing for credit
+
+**Open, unconfirmed:** whether EDMO's org-wide proof points (98% SEL growth, 81% homework completion, 83% more excited to attend school, 96% return rate) actually land with Chloe, or whether she needs Salinas-specific local numbers instead — a Director of Expanded Learning has to defend results locally, not org-wide. Real per-site family survey data exists for Salinas (Google Drive, "Family Surveys 23-24" folder) and hasn't been analyzed for this yet.
+
+### What Turns Them Off
+Kids not getting programming — especially when the cause is EDMO's own operational or staffing failure. Even a small waitlist turns her off, because a waitlist isn't just a disappointment, it's an audit risk for her district tied to ELOP fund compliance. This connects directly to a real EDMO proof point (programs "fully compliant with ASES, ELO-P, and state audit requirements") — protecting her audit standing is a sharper, higher-stakes pitch than generic "great partner" messaging.
+
+### Who They Are Not
+A district leader who nickel-and-dimes EDMO and doesn't respect the integrity of the programming or what it actually costs. Chloe pushes hard too — but because she cares about program integrity, not because she's cheap. Someone purely price-driven doesn't share that value, even if their title looks identical on paper. (This mirrors Community Camp's "who they're not" almost exactly — see that section.)
+
+### Their Words
+Not yet filled — no verbatim quote from Chloe or a directly comparable real partner has been pulled in. A real lead exists and hasn't been used yet: Airtable's "Brand & Marketing" workspace has a "Surveys" base with a "Partner Surveys" table holding actual district-partner survey responses (open-ended answers included) — worth pulling a real quote from there before this section is fully done.
+
+### Notion
+Not yet filled in the ICP Notion template.
