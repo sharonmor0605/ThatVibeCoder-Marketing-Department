@@ -29,12 +29,22 @@ Raw notes from the lock-your-icp interview, not yet finished — no pushback-com
 - Hearing directly from families how helpful it is
 - Seeing vendors work in harmony and cohesion
 - **Open question, asked but not yet answered:** are EDMO's existing org-wide proof points (the 98%/81%/83%/96% stats from the Partnership Playbook) actually what would land with Chloe, or does she need Salinas-specific, local numbers rather than org-wide averages? A Director of Expanded Learning has to defend results locally, not org-wide.
+- **Lead worth following up:** Salinas itself has real quarterly family survey data on file (Google Drive, "Family Surveys 23-24" folder — includes a survey literally named "Salinas Summer STEAM Camp Family Survey," plus Alisal and Miwok). This is Chloe's own site data, not org-wide — exactly the kind of local proof that could answer the question above. Not yet pulled/analyzed for this purpose.
+
+**Lens 5 — What turns her off completely:** Kids not getting programming — especially when the cause is EDMO's own staffing failure. Even a small waitlist turns her off, because a waitlist doesn't just mean unhappy families, it means her school district has an audit problem tied to ELOP fund utilization. This connects straight back to the Partnership Playbook's own proof point ("fully compliant with ASES, ELO-P, and state audit requirements") — the audit-risk framing is a real, high-stakes differentiator, sharper than generic "great partner" messaging.
+
+**Lens 6 — Who she's NOT:** A district leader who nickel-and-dimes EDMO and doesn't respect the integrity/cost of the programming. The contrast is useful: Chloe pushes hard too, but because she cares about program integrity, not because she's cheap — someone who's purely price-driven doesn't share that value even if their title looks identical on paper.
+
+**The one-liner — several rounds in, close but not final.** Built live with the owner, cut down repeatedly:
+- First draft leaned on "fielding blame from her superintendent" for the zero state — owner corrected this: it's not blame, it's personal. It hurts her soul to watch kids lose programming; the superintendent/business-officer pressure is a separate, secondary layer on top of that.
+- For the outcome/hero-state payoff, owner cycled through several words before landing on something concrete: not "pride," not "peace of mind," but fulfillment/purpose/impact — and when pushed for a real image behind those words, she gave one: **"seeing every single kid be engaged and have access to this kind of program."** That ties directly back to Chloe's own dream state (zero waitlist = no kid shut out), which is exactly the kind of zero-state/hero-state mirroring the one-liner is supposed to have.
+
+Latest version, still pending a final "would you say this on a call" confirmation from the owner:
+> "I help Directors of Expanded Learning like Chloe go from the ache of watching kids lose programming to a staffing gap — on top of pressure from her superintendent and business officer — to running a fully-staffed, zero-waitlist program where every single kid gets engaged and has access."
 
 ## Still to do (round 2 / not started)
-- **Lens 4, finish:** resolve the org-wide-vs-local-stats question above.
-- **Lens 5 — What turns her off completely:** question was asked, session ended before it was answered.
-- **Lens 6 — Who she's NOT:** not started.
-- **The one-liner:** not built yet. Working parts available: zero state = fielding blame from superiors/parents when EDMO can't hire fast enough; hero state = zero waitlist, funds spent efficiently, vendors in harmony, she looks good to her superintendent; outcome = her own success/standing with her superiors. Needs to be built out loud with the owner, not assembled solo.
+- **Lens 4, finish:** resolve the org-wide-vs-local-stats question — pull the Salinas-specific family survey data (see lead above) as the actual test case.
+- **One-liner:** get explicit final confirmation from the owner that the latest version above is one she'd say on a real call without flinching.
 - **Notion ICP template:** not filled yet — Notion connector is live now (it wasn't at the start of this interview), so this is doable next session.
 - **NotebookLM sweep:** not attempted — connection status unknown, check when resuming.
 - **Final write-up into `brand/icp.md`:** not started — per the skill, this only happens once pushback rounds are done.
